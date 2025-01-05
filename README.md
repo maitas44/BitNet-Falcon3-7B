@@ -1,9 +1,11 @@
+Video of a 20 GB Storage Linux environment on a 16 GB RAM chromebook running Falcon3-7B locally:
+https://youtu.be/o_YJpa4c2s4
+
 How to install BitNet using Falcon3-7B on debian running bash:
 
 Download all the files from:
 https://drive.google.com/drive/folders/1mtVun_v05ffa5i2tRiSU88e3XZa7qBcj?usp=sharing
 to a local directory to later copy it to the corresponding ~/BitNet/models/Falcon3-7B-Instruct-1.58bit/ folder.
-
 
 sudo apt update
 sudo apt upgrade -y
